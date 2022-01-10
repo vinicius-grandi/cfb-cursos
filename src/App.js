@@ -1,8 +1,3 @@
-
-function App() {
-  return (
-    <>
-    
 import Carro from "./componentes/Carro";
 
 function App() {
